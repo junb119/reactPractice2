@@ -9,10 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Edit <code>src/App.js</code> and save to reload. 테스트중
-            이제 진짜 되!
-            되는거 맞니
-            감격이다
+            Edit <code>src/App.js</code> and save to reload. 경로변경테스트??
           </p>
           <a
             className="App-link"
